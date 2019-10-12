@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monsters-react-course/static/css/main.b7f373c9.chunk.css",
+    "main.js": "/monsters-react-course/static/js/main.56bd08ce.chunk.js",
+    "main.js.map": "/monsters-react-course/static/js/main.56bd08ce.chunk.js.map",
+    "runtime-main.js": "/monsters-react-course/static/js/runtime-main.66deb16e.js",
+    "runtime-main.js.map": "/monsters-react-course/static/js/runtime-main.66deb16e.js.map",
+    "static/js/2.6b4f4a34.chunk.js": "/monsters-react-course/static/js/2.6b4f4a34.chunk.js",
+    "static/js/2.6b4f4a34.chunk.js.map": "/monsters-react-course/static/js/2.6b4f4a34.chunk.js.map",
+    "index.html": "/monsters-react-course/index.html",
+    "precache-manifest.02811d6d646f01f319a1bf54ccf6199d.js": "/monsters-react-course/precache-manifest.02811d6d646f01f319a1bf54ccf6199d.js",
+    "service-worker.js": "/monsters-react-course/service-worker.js",
+    "static/css/main.b7f373c9.chunk.css.map": "/monsters-react-course/static/css/main.b7f373c9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66deb16e.js",
+    "static/js/2.6b4f4a34.chunk.js",
+    "static/css/main.b7f373c9.chunk.css",
+    "static/js/main.56bd08ce.chunk.js"
+  ]
+}
